@@ -20,6 +20,6 @@
 ![intellijidea](https://img.shields.io/badge/intellijidea-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
 ![git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-[![hyodev](https://img.shields.io/badge/hyodev-0A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white)](http://hyodev.com/)
+[![hyodev](https://img.shields.io/badge/hyodev-0A0A0A.svg?&style=for-the-badge&logo=devdotto&logoColor=white)](http://hyodev.kr/)
 ![gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)
 </div>
