@@ -23,3 +23,4 @@
 ![vuedotjs](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 [![gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:alexization@gmail.com)
 </div>
+
