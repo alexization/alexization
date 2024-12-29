@@ -33,7 +33,7 @@
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/DDog-org/daengle-server">쿠퐁(Coupong)</a>
+        <a href="https://github.com/OnePage-org/coupong-backend">쿠퐁(Coupong)</a>
       </td>
       <td>🎫 선착순 쿠폰 이벤트 플랫폼</td>
       <td></td>
