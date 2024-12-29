@@ -34,6 +34,7 @@
     </tr>
     <tr>
       <td>
+        <img src="https://github.com/user-attachments/assets/7e1c59ff-b4d2-4832-a484-6b1f35cbf992" width="20px" height="20px" />
         <a href="https://github.com/OnePage-org/coupong-backend">쿠퐁(Coupong)</a>
       </td>
       <td>🎫 선착순 쿠폰 이벤트 플랫폼</td>
