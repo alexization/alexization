@@ -21,7 +21,7 @@
         <img src="https://github.com/user-attachments/assets/707b4c0b-fc84-448e-92a6-ee67166f9f67" width="18px" height="16px"/>
         <a href="https://github.com/DDog-org/daengle-server">댕글(Daengle)</a>
       </td>
-      <td>🐶 반려견을 위한 견적 매칭 플랫폼</td>
+      <td>🐶 반려견을 위한 미용 및 진료 견적 입찰 서비스</td>
       <td><strong>LG U+ URECA</strong> 최종융합프로젝트, 최우수상</td>
     </tr>
     <tr>
