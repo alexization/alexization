@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Falexization&count_bg=%238B4F0D&title_bg=%23555555&icon=smugmug.svg&icon_color=%23E7E7E7&title=Hi%2C+there%21&edge_flat=false)](https://hits.seeyoufarm.com)  
 
 > 안녕하세요 :D  
-> **백엔드 개발자 백효석**입니다.
+> **백엔드 개발자 백효석**입니다. 
 
 ### ☁️ Experience
 - **SYSOUT, CS 스터디 모임** (2025.01 - 진행 중)
