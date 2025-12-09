@@ -2,6 +2,8 @@
 > 안녕하세요 :D  
 > **백엔드 개발자 백효석**입니다. 
 
+[![Git Ranker](http://hyoserver.iptime.org:8080/api/v1/badges/MDQ6VXNlcjgxOTU5MDAy)](https://github.com/alexization/)
+
 ### ☁️ Experience
 - **SYSOUT, CS 스터디 모임** (2025.01 - 진행 중)
 - **LG U+ URECA, 1st - Backend** (2024.06.10 - 2024.12.24)
