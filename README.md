@@ -53,6 +53,7 @@
 ---
 <div align=center>
 
+[![Git Ranker](http://www.git-ranker.com:8080/api/v1/badges/MDQ6VXNlcjgxOTU5MDAy)](https://github.com/alexization)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=alexization)](https://solved.ac/alexization/) 
 
 </div>
